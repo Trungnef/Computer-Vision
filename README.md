@@ -68,9 +68,10 @@
 
 Dưới đây là một số ví dụ về cách sử dụng ứng dụng:
 
-* **Làm mịn ảnh:** Tải lên ảnh nhiễu và áp dụng bộ lọc Gaussian để làm mịn.
 * **Phát hiện biên:** Tải lên ảnh và áp dụng thuật toán Canny để phát hiện các cạnh.
+*   ![Phát hiện biên Canny](./immages/1.png)
 * **Thay đổi kích thước:** Tải lên ảnh và thay đổi kích thước của nó.
+* ![Thay đổi kích thước](./immages/2.png)
 
 ## Lưu ý
 
