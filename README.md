@@ -69,9 +69,9 @@
 Dưới đây là một số ví dụ về cách sử dụng ứng dụng:
 
 * **Phát hiện biên:** Tải lên ảnh và áp dụng thuật toán Canny để phát hiện các cạnh.
-*   ![Phát hiện biên Canny](./immages/1.png)
+*   ![Phát hiện biên Canny](./images/1.png)
 * **Lật ảnh:** Tải lên ảnh và thay đổi ảnh theo trục của nó.
-* ![Lật ảnh](./immages/2.png)
+* ![Lật ảnh](./images/2.png)
 
 ## Lưu ý
 
