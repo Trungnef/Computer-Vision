@@ -62,7 +62,7 @@
     * Chọn thuật toán xử lý ảnh mà bạn muốn áp dụng từ danh sách thả xuống.
     * Điều chỉnh các tham số cho thuật toán đã chọn bằng cách sử dụng các thanh trượt, hộp số, v.v.
     * Xem trước kết quả trong thời gian thực.
-    * Tải xuống ảnh đã chỉnh sửa bằng cách nhấp vào nút "Tải xuống ảnh chỉnh sửa".
+    * Tải xuống ảnh đã chỉnh sửa bằng cách nhấp vào nút "Đao ảnh nè".
 
 ## Ví dụ
 
