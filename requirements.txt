@@ -1,8 +1,0 @@
-streamlit==1.38.0
-opencv-python
-numpy
-pillow
-scikit-image
-matplotlib
-pywavelets
-scikit-learn
