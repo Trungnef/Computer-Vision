@@ -1,5 +1,5 @@
 # Computer-Vision
-# Ứng dụng Xử lý Ảnh với Streamlit
+# Ứng dụng Xử lý Ảnh
 
 Đây là một ứng dụng web đơn giản được xây dựng bằng Streamlit, cho phép người dùng tải lên ảnh và áp dụng nhiều thuật toán xử lý ảnh khác nhau. Ứng dụng cung cấp một giao diện trực quan để điều chỉnh các tham số và xem trước kết quả theo thời gian thực.
 
